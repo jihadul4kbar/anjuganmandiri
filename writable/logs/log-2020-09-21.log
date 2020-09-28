@@ -1,0 +1,18 @@
+CRITICAL - 2020-09-21 03:15:14 --> Class 'App\Controllers\BaseControllers' not found
+#0 D:\web\antrian\vendor\codeigniter4\framework\system\Router\Router.php(583): include_once()
+#1 D:\web\antrian\vendor\codeigniter4\framework\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('frontend/Fronte...')
+#2 D:\web\antrian\vendor\codeigniter4\framework\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('frontend/Fronte...')
+#3 D:\web\antrian\vendor\codeigniter4\framework\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\web\antrian\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\web\antrian\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 D:\web\antrian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('D:\\web\\antrian\\...')
+#7 {main}
+CRITICAL - 2020-09-21 03:15:56 --> Class 'App\Controllers\BaseControllers' not found
+#0 D:\web\antrian\vendor\codeigniter4\framework\system\Router\Router.php(583): include_once()
+#1 D:\web\antrian\vendor\codeigniter4\framework\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Frontend')
+#2 D:\web\antrian\vendor\codeigniter4\framework\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Frontend')
+#3 D:\web\antrian\vendor\codeigniter4\framework\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\web\antrian\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\web\antrian\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 D:\web\antrian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('D:\\web\\antrian\\...')
+#7 {main}

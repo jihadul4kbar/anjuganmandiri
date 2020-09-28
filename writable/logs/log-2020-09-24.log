@@ -1,0 +1,10 @@
+CRITICAL - 2020-09-24 04:26:53 --> Invalid file: forntend/pendaftaran.php
+#0 D:\web\antrian\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('forntend/pendaf...')
+#1 D:\web\antrian\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('forntend/pendaf...', Array, true)
+#2 D:\web\antrian\app\Controllers\Frontend.php(14): view('forntend/pendaf...', Array)
+#3 D:\web\antrian\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Frontend->pendaftaran()
+#4 D:\web\antrian\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend))
+#5 D:\web\antrian\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\web\antrian\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 D:\web\antrian\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('D:\\web\\antrian\\...')
+#8 {main}

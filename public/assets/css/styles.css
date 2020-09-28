@@ -1,0 +1,87 @@
+body{
+	background-image: linear-gradient(to top, #d8d7d7, #ffffff, #f7f6f6 );
+ 	height: 100vh;
+}
+.info-box-2 {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    height: 80px;
+    display: flex;
+    cursor: default;
+    background-color: #fff;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.info-box-2 .icon {
+    display: inline-block;
+    text-align: center;
+    width: 80px;
+    padding: 20px;
+}
+.info-box-2 .content {
+    display: inline-block;
+    padding: 7px 10px;
+}
+.info-box-2 .content .text {
+    font-size: 13px;
+    margin-top: 11px;
+    color: #fff;
+}
+.info-box-2 .content .number {
+    font-weight: 700;
+    font-size: 26px;
+    margin-top: -4px;
+    color: #fff;
+}
+.zoom {
+  transition: transform .2s; /* Animation */
+}
+.zoom:hover {
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+.headerdpn{
+	padding-top: 10px;
+	padding-bottom:20px;
+}
+
+.bg-antrian{
+    background-color: #44afdf !important; 
+    color: #fff;
+}
+.bg-booking{
+    background-color: #eb9b53 !important;
+    color: #fff;
+}
+.bg-dokter{
+    background-color: #c96be5 !important;
+    color: #fff;
+}
+.bg-kamar{
+    background-color: #31c637 !important;
+    color: #fff;
+}
+.bg-denah{
+    background-color: #eb4fa3 !important;
+    color: #fff;
+}
+.bg-operasi{
+    background-color: #55a6f8 !important;
+    color: #fff;
+}
+.bg-hak{
+    background-color: #f8576a !important;
+    color: #fff;
+}
+.bg-fasilitas{
+    background-color: #5670f9 !important;
+    color: #fff;
+}
+.bg-layanan{
+    background-color: #5c42e3 !important;
+    color: #fff;
+}
+.footer{
+    padding-top: 20px;
+    font-weight: 700;
+}
