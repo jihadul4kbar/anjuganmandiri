@@ -1,0 +1,1081 @@
+CRITICAL - 2020-10-05 22:08:44 --> Invalid file: frontend/kamar.php
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): view()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#8 {main}
+CRITICAL - 2020-10-05 22:22:18 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:24:48 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:24:48 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:24:49 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:24:49 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:24:49 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:24:49 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:24:49 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:25:26 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:25:27 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:25:27 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:25:27 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:25:28 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:25:28 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:25:28 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:28:10 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:28:10 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:25 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:26 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:26 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:26 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:26 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:27 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:27 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:27 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:27 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:27 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:28 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:28 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:28 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:28 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:29 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:39 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:39 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:40 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:31:40 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(19): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:37:03 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:37:03 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:37:03 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:37:04 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:37:04 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:38:35 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:38:35 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:38:36 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:38:36 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:38:36 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:39:18 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:39:18 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:39:18 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:39:19 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:39:19 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:39:19 --> Cannot call constructor
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:39:28 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(26): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:39:29 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(26): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:39:29 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(26): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:39:29 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(26): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:39:29 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(26): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:39:30 --> Undefined property: App\Controllers\Frontend::$db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(26): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:39:43 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(26): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:39:44 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(26): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:39:44 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(26): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:43:16 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:43:16 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:43:16 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:43:17 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:43:17 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:43:17 --> Undefined variable: db
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:50:42 --> Undefined property: App\Controllers\Frontend::$FrontendModel
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(29): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:50:42 --> Undefined property: App\Controllers\Frontend::$FrontendModel
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(29): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:50:43 --> Undefined property: App\Controllers\Frontend::$FrontendModel
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(29): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:50:43 --> Undefined property: App\Controllers\Frontend::$FrontendModel
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(29): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 22:52:05 --> Class 'CodeIngiter\Model' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(365): require_once()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(13): spl_autoload_call()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#7 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#10 {main}
+CRITICAL - 2020-10-05 22:52:06 --> Class 'CodeIngiter\Model' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(365): require_once()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(13): spl_autoload_call()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#7 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#10 {main}
+CRITICAL - 2020-10-05 22:52:06 --> Class 'CodeIngiter\Model' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(365): require_once()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(13): spl_autoload_call()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#7 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#10 {main}
+CRITICAL - 2020-10-05 22:52:06 --> Class 'CodeIngiter\Model' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(365): require_once()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(13): spl_autoload_call()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#7 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#10 {main}
+CRITICAL - 2020-10-05 22:53:29 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:53:34 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:07 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:08 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:08 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:08 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:09 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:09 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:09 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:09 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:09 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:10 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:10 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:10 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:10 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:10 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:56:11 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:58:00 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(890): App\Controllers\Frontend->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:58:10 --> Call to a member function kamar() on null
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:58:10 --> Call to a member function kamar() on null
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:58:10 --> Call to a member function kamar() on null
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:58:10 --> Call to a member function kamar() on null
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 22:58:11 --> Call to a member function kamar() on null
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:02:22 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:02:23 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:02:24 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:02:24 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:02:24 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:02:24 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:02:25 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:02:25 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:02:49 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:02:49 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:02:49 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:02:49 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:02:50 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:04:18 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:04:18 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:04:18 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:04:19 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:04:19 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:04:23 --> Class 'App\Models\FrontendModel' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#5 {main}
+CRITICAL - 2020-10-05 23:04:38 --> Class 'Config\Databases' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(22): App\Models\FrontendModel->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 23:04:39 --> Class 'Config\Databases' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(22): App\Models\FrontendModel->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 23:04:39 --> Class 'Config\Databases' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(22): App\Models\FrontendModel->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 23:04:40 --> Class 'Config\Databases' not found
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(22): App\Models\FrontendModel->__construct()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}
+CRITICAL - 2020-10-05 23:08:12 --> syntax error, unexpected '/'
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render()
+#1 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(25): view()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#7 {main}
+CRITICAL - 2020-10-05 23:08:38 --> syntax error, unexpected '/'
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render()
+#1 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(25): view()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#7 {main}
+CRITICAL - 2020-10-05 23:08:43 --> syntax error, unexpected '/'
+#0 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render()
+#1 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(25): view()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#7 {main}
+CRITICAL - 2020-10-05 23:09:07 --> Trying to get property 'nm_bangsal' of non-object
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Views/frontend/kamar.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/View/View.php(246): include('/media/rsudpray...')
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(25): view()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#9 {main}
+CRITICAL - 2020-10-05 23:09:08 --> Trying to get property 'nm_bangsal' of non-object
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Views/frontend/kamar.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/View/View.php(246): include('/media/rsudpray...')
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(25): view()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#9 {main}
+CRITICAL - 2020-10-05 23:09:08 --> Trying to get property 'nm_bangsal' of non-object
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Views/frontend/kamar.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/View/View.php(246): include('/media/rsudpray...')
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(25): view()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#9 {main}
+CRITICAL - 2020-10-05 23:09:59 --> Trying to get property 'nm_bangsal' of non-object
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Views/frontend/kamar.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/View/View.php(246): include('/media/rsudpray...')
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(25): view()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#9 {main}
+CRITICAL - 2020-10-05 23:10:00 --> Trying to get property 'nm_bangsal' of non-object
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Views/frontend/kamar.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/View/View.php(246): include('/media/rsudpray...')
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(25): view()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#9 {main}
+CRITICAL - 2020-10-05 23:10:00 --> Trying to get property 'nm_bangsal' of non-object
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Views/frontend/kamar.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/View/View.php(246): include('/media/rsudpray...')
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(25): view()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#9 {main}
+CRITICAL - 2020-10-05 23:10:00 --> Trying to get property 'nm_bangsal' of non-object
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Views/frontend/kamar.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/View/View.php(246): include('/media/rsudpray...')
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(25): view()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#9 {main}
+CRITICAL - 2020-10-05 23:10:00 --> Trying to get property 'nm_bangsal' of non-object
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Views/frontend/kamar.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/View/View.php(246): include('/media/rsudpray...')
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(25): view()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#9 {main}
+CRITICAL - 2020-10-05 23:10:00 --> Trying to get property 'nm_bangsal' of non-object
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Views/frontend/kamar.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/View/View.php(246): include('/media/rsudpray...')
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(25): view()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#9 {main}
+CRITICAL - 2020-10-05 23:10:01 --> Trying to get property 'nm_bangsal' of non-object
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Views/frontend/kamar.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/View/View.php(246): include('/media/rsudpray...')
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(25): view()
+#4 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#9 {main}
+CRITICAL - 2020-10-05 23:10:48 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::result()
+#0 /media/rsudpraya/jihad/anjuganmandiri/app/Controllers/Frontend.php(24): App\Models\FrontendModel->kamar()
+#1 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(918): App\Controllers\Frontend->kamar()
+#2 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /media/rsudpraya/jihad/anjuganmandiri/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /media/rsudpraya/jihad/anjuganmandiri/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(34): require_once('/media/rsudpray...')
+#6 {main}

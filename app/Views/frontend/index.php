@@ -38,8 +38,8 @@
 		    </div>
 		    <div class="col-sm-4">
 		      <a href="<?php echo base_url();?>/frontend/pendaftaran" style="text-decoration: none;">
-                    <div class="info-box-2 bg-booking">
-                    	<div class="icon zoom">
+                    <div class="info-box-2 bg-booking zoom">
+                    	<div class="icon">
                             <svg class="bi text-white" width="45" height="45">
                               <use xlink:href="<?php echo base_url();?>/assets/vendor/icons/bootstrap-icons.svg#bookmark-check-fill"/>
                             </svg>
@@ -67,7 +67,7 @@
                 </a>
 		    </div>
 			<div class="col-sm-4">
-		      	<a href="#" style="text-decoration: none;">
+		      	<a href="<?php echo base_url();?>/frontend/kamar" style="text-decoration: none;">
                     <div class="info-box-2 bg-kamar zoom">
                     	<div class="icon">
                             <svg class="bi text-white" width="45" height="45">
